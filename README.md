@@ -5,6 +5,8 @@
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
 - ✏️ C# / Php / VS Code
+<br />
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
 ![pv](https://komarev.com/ghpvc/?username=umeyiratasoy)
 ![Years Badge](https://badges.pufler.dev/years/umeyiratasoy)
