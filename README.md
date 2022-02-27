@@ -5,6 +5,10 @@
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
 - ✏️ C# / Php / VS Code
+![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
+![pv](https://komarev.com/ghpvc/?username=umeyiratasoy)
+![Years Badge](https://badges.pufler.dev/years/umeyiratasoy)
+![Repos Badge](https://badges.pufler.dev/repos/umeyiratasoy)
 ## ⏲ What we are doing now:
 - I’m currently learning everything 🚀, 
 - I also work as a FreeLancer 🆓.
@@ -29,6 +33,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/php.svg" />][php]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/csharp.svg" />][csharp]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/html5.svg" />][html5]
 
 
 
@@ -58,7 +63,7 @@
 [linkedin]: http://linkedin.com/in/ümeyir-atasoy-b573b0219
 [php]: https://www.php.net/
 [gmail]: mailto:umeyiratasoyy@gmail.com
-[flutter]: https://flutter.dev/
+[html5]: https://www.w3schools.com/html/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [csharp]: https://www.w3schools.com/cs/
