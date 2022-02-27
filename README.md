@@ -38,11 +38,11 @@
 <br />
 <br />
 
-[![Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api ?umeyiratasoy=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 <br />
