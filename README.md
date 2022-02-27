@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
-## I'm a Student 👨‍🎓, Hi, Ümeyir atasoy 👨‍🎓!
+## Hi, Ümeyir atasoy 👨‍🎓!
 - 🔭 🔭 I’m currently working on some of my side projects.
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
