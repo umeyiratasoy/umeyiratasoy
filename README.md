@@ -45,6 +45,8 @@
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=bahadirduzcan&theme=dark&show_icons=true" alt="Bahadır DUZCAN"></img>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeyiratasoy&theme=tokyonight)
 <br />
 <br />
 
