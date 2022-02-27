@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
-## Hi, Ümeyir atasoy 👨‍🎓!
+## Hi, Ümeyir atasoy 👨‍🎓
 - 🔭 🔭 I’m currently working on some of my side projects.
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
@@ -44,8 +44,9 @@
 <div align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
-
+<br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umeyiratasoy&theme=dark&show_icons=true" alt="Ümeyir ATASOY"></img>
+<br />
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeyiratasoy&theme=tokyonight)
 
 </div>
