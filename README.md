@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 ## I'm a Student 👨‍🎓, Hi, Ümeyir atasoy 👨‍🎓!
 - 🔭 🔭 I’m currently working on some of my side projects.
@@ -6,15 +6,14 @@
 - 🌱 I’m currently learning everything 🤣
 - ✏️ C# / Php / VS Code
 ## ⏲ What we are doing now:
-I’m currently learning everything 🚀, 
-I also work as a FreeLancer 🆓.
+- I’m currently learning everything 🚀, 
+- I also work as a FreeLancer 🆓.
 
 <br />
 
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
