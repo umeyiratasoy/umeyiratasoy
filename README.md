@@ -28,11 +28,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/php.svg" />][php]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/csharp.svg" />][csharp]
 
-<br />
-
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
 
 
 <br />
@@ -41,6 +38,7 @@
 <br />
 <br />
 
+[![Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api ?umeyiratasoy=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Analytics 📊
 
@@ -59,6 +57,6 @@
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
+[csharp]: https://www.w3schools.com/cs/
 [github]: https://github.com/umeyiratasoy
 [python]: https://www.python.org/
