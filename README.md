@@ -9,7 +9,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
 ![pv](https://komarev.com/ghpvc/?username=umeyiratasoy)
-![Years Badge](https://badges.pufler.dev/years/umeyiratasoy)
 ![Repos Badge](https://badges.pufler.dev/repos/umeyiratasoy)
 ## ⏲ What we are doing now:
 - I’m currently learning everything 🚀, 
