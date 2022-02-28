@@ -3,6 +3,7 @@
 ## Hi, Ümeyir ATASOY 👨‍🎓
 - 🔭 I’m currently working on some of my side projects.
 - 💻 I'm a Student and Developer
+- 🎓 Atatürk University - Management Information Systems
 - 🌱 I’m currently learning everything 🤣
 - ✏️ C# / Php / VS Code
 <br />
