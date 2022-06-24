@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on some of my side projects.
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning everything 🤣
-- ✏️ C# / Php / VS Code
+- ✏️ C# / Php / ASP.NET
 <br />
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
