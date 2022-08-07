@@ -4,7 +4,7 @@
 - 🎓 Atatürk University - Management Information Systems
 - 💻 I’m currently working on some of my side projects.
 
-- <br />
+<br />
 ## ⏲ What we are doing now:
 - 🔭I am learning programming languages.
 <br />
