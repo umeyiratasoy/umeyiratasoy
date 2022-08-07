@@ -2,10 +2,7 @@
 
 ## Hi, Ümeyir ATASOY 👨‍🎓
 - 🎓 Atatürk University - Management Information Systems
-- 🔭 I’m currently working on some of my side projects.
-- 💻 I'm a Student and Developer
-- 🌱 I’m currently learning everything 🤣
-- ✏️ C# / Php / ASP.NET
+- 💻 I’m currently working on some of my side projects.
 <br />
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
