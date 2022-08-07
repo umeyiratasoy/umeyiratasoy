@@ -3,12 +3,6 @@
 ## Hi, Ümeyir ATASOY 👨‍🎓
 - 🎓 Atatürk University - Management Information Systems
 - 💻 I’m currently working on some of my side projects.
-<br />
-<br />
-<br />
-<br />
-
-
 ## ⏲ What we are doing now:
 - I’m currently learning everything 🚀, 
 - I also work as a FreeLancer 🆓.
