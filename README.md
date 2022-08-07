@@ -6,12 +6,12 @@
 
 <br />
 
-## ⏲ What we are doing now:
+## ⏲ What we are doing now
 - 🔭I am learning programming languages.
 
 <br />
 <br />
-### 📩 Connect with me:
+### 📩 Connect with me
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
@@ -21,7 +21,7 @@
 
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -44,7 +44,7 @@
   <img width="400" height="290" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Ümeyir ATASOY"/>
 </a><img width="400" height="290" align="right" src="https://github-readme-stats.vercel.app/api?username=umeyiratasoy&theme=dark&show_icons=true" alt="Ümeyir ATASOY"></img>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeyiratasoy&theme=tokyonight)
+
 
 </div>
 <br />
