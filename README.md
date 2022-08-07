@@ -4,10 +4,11 @@
 - 🎓 Atatürk University - Management Information Systems
 - 💻 I’m currently working on some of my side projects.
 <br />
+<br />
+<br />
+<br />
 
-![GitHub last commit](https://img.shields.io/github/last-commit/umeyiratasoy/umeyiratasoy)
-![pv](https://komarev.com/ghpvc/?username=umeyiratasoy)
-![Repos Badge](https://badges.pufler.dev/repos/umeyiratasoy)
+
 ## ⏲ What we are doing now:
 - I’m currently learning everything 🚀, 
 - I also work as a FreeLancer 🆓.
