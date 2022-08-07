@@ -5,10 +5,6 @@
 - 💻 I’m currently working on some of my side projects.
 - 🔭I am learning programming languages.
 
-<br />
-
-
-
 ### 📩 Connect with me
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
