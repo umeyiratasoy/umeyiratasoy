@@ -1,0 +1,88 @@
+echo "# deneme1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/umeyiratasoy/deneme1.git
+git push -u origin main
+
+--
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/umeyiratasoy/deneme1.git
+git branch -M main
+git push -u origin main
+
+--
+
+git init -- ilk kez proje oluştururken kullanıyoruz.
+
+git add <file>
+
+git add . (all)
+
+git commit -m 'acıklama'
+
+git status -- dosyaların durumunu gösteriyor
+
+git diff -- o dosyalarla ilgili değişiklikleri gösteriyordu.
+
+git checkout cranchName
+
+git push
+
+git pull
+
+git clone
+
+
+
+git pull - github sitesinde yaptığımız değişikliği vscode de değiştirir.
+
+
+MarkDown Komutları: 
+
+# Başlık 1
+## Başlık 2.. 
+
+*italic* 
+**bold**
+***boldItalic***
+
+- Liste Elemanı
+- Liste Elemanı
+- Liste Elemanı
+
+Link:
+[Yazi](url)
+[Kodluyoruz](https://www.kodluyoruz.org/)
+
+Image/Gorsel:
+![Aciklama Bilgisi](url)
+![Lorem Picsum](https://picsum.photos/200/300)
+
+-----
+.gitignore komutları:
+Yayımlamak istemediğimiz uzantıya *. koyuyoruz. veya /
+ Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+
+Gitignore çalışmıyorsa: https://www.codeturkiye.com/gitignore-calismiyor/
+git rm -r --cached .
+git add .
+git commit -m ".gitignore is now working"
+---
+
+https://forum.donanimarsivi.com/konu/sahane-bir-github-profili-nasil-yapilir-github-readme-nasil-eklenir.425511/
+statu: https://github.com/anuraghazra/github-readme-stats
