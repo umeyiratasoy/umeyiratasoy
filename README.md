@@ -35,9 +35,13 @@
 
 
 ### GitHub Analytics 📊
-<div align="center">
-  <img width="400" height="290" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Ümeyir ATASOY"/>
-</a><img width="400" height="290" align="right" src="https://github-readme-stats.vercel.app/api?username=umeyiratasoy&theme=dark&show_icons=true" alt="Ümeyir ATASOY"></img>
+<div  align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeyiratasoy&show_icons=true&locale=en&layout=compact&langs_count=8&" />
+   
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umeyiratasoy&show_icons=true" alt="Ümeyir ATASOY"/>
+          
+ </div>
 
 
 
