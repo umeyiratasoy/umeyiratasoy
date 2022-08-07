@@ -1,13 +1,12 @@
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
 
-## Hi, Ümeyir ATASOY 👨‍🎓
+## Hi, Ümeyir ATASOY 👨‍🎓 
 - 🎓 Atatürk University - Management Information Systems
 - 💻 I’m currently working on some of my side projects.
+- 🔭I am learning programming languages.
 
 <br />
 
-## ⏲ What we are doing now
-- 🔭I am learning programming languages.
 
 <br />
 <br />
