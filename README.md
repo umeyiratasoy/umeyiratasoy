@@ -14,6 +14,8 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
+
+
 ### 🔧 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
