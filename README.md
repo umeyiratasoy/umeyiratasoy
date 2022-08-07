@@ -5,8 +5,10 @@
 - 💻 I’m currently working on some of my side projects.
 
 <br />
+
 ## ⏲ What we are doing now:
 - 🔭I am learning programming languages.
+
 <br />
 <br />
 ### 📩 Connect with me:
