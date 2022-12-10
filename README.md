@@ -21,6 +21,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Angular" width="26px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
+<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 <img align="left" alt="C#" width="26px" src="https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5c363b1f43fb7bbc94f002c3_Website_Reporting%20Language%20Icons_Csharp.png">
 <img align="left" alt=".Net Core" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
