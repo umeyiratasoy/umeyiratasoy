@@ -27,6 +27,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 
+<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanogutcu&stroke=ffffff&background=003140&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="355"/></a>
+<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="460"/></a>  
 
 
 <br />
