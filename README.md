@@ -24,7 +24,6 @@
 <img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img align="left" alt="C#" width="26px" src="https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5c363b1f43fb7bbc94f002c3_Website_Reporting%20Language%20Icons_Csharp.png">
 <img align="left" alt=".Net Core" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 
