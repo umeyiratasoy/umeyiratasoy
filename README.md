@@ -1,7 +1,7 @@
 ### Hi, I am Ümeyir ATASOY 👨‍🎓 
 - 🎓 Atatürk University - Management Information Systems | 4rd grade student 
 - 💻 I’m currently working on some of my side projects.
-- 🔭 Basically, I'm trying to learn every software language, but I mainly develop myself in Asp.NET, MVC, Angular and Flutter projects.
+- 🔭 Basically, I'm trying to learn every software language, but I mainly develop myself in C#, Asp.NET, MVC, Angular and Flutter projects.
 
 ### 📩 Connect with me
 
