@@ -4,7 +4,6 @@
 - I have a good command of Software Development Models, I usually try to develop software with the Scrum model.
 - I am proficient in OOP (Object Oriented Programming), SOA (Service Oriented Architecture) and SOLID coding techniques.-
 - I am prone to teamwork, I try to think in a planned and analytical way.
-- I enjoy solving problems. I love to research and learn. I spend most of my time learning programming languages (C#, Asp.NET, MVC, Angular, Java and React ) . 🔭
 
 
 
