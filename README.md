@@ -37,14 +37,6 @@
 <br />
 <br />
 
-
-<br />
-<br />
-<br />
-
-<br />
-<br />
-
 <a href="https://github.com/umeyiratasoy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=umeyiratasoy&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/umeyiratasoy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeyiratasoy&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
