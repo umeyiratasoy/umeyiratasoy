@@ -27,7 +27,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img align="left" alt="C#" width="26px" src="https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5c363b1f43fb7bbc94f002c3_Website_Reporting%20Language%20Icons_Csharp.png">
 <img align="left" alt="Angular" width="26px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
+<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 <img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img align="left" alt=".Net Core" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
