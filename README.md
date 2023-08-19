@@ -26,6 +26,7 @@
 <img align="left" alt=".Net Core" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 <br />
 <br />
 <br />
