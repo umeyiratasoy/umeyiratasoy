@@ -1,5 +1,5 @@
 ### Hi, I am Ümeyir ATASOY 👨‍🎓 
-- Atatürk University - Management Information Systems | 4rd grade student 🎓
+- Atatürk University - Management Information Systems
 - I'm trying to improve myself in software projects, I'm a student right now, but this can't prevent my development. 💻
 - I have a good command of Software Development Models, I usually try to develop software with the Scrum model.
 - I am proficient in OOP (Object Oriented Programming), SOA (Service Oriented Architecture) and SOLID coding techniques.
