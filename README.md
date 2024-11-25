@@ -1,9 +1,4 @@
-### Hi, I am Ümeyir ATASOY 👨‍🎓 
-- Atatürk University - Management Information Systems
-- I'm trying to improve myself in software projects, I'm a student right now, but this can't prevent my development. 💻
-- I have a good command of Software Development Models, I usually try to develop software with the Scrum model.
-- I am proficient in OOP (Object Oriented Programming), SOA (Service Oriented Architecture) and SOLID coding techniques.
-- I am prone to teamwork, I try to think in a planned and analytical way.
+### Everything I've developed
 
 
 
@@ -48,7 +43,7 @@
 [instagram]: https://www.instagram.com/umeyiratasoy/
 [facebook]: https://www.facebook.com/umeyiratasoy/
 [youtube]: https://youtube.com//channel/UCTyfKbzsyJUVtjM5MnfAEVw/featured?view_as=subscriber
-[linkedin]: http://linkedin.com/in/ümeyir-atasoy-b573b0219
+[linkedin]: http://linkedin.com/in/umeyiratasoy
 [php]: https://www.php.net/
 [gmail]: mailto:umeyiratasoyy@gmail.com
 [html5]: https://www.w3schools.com/html/
