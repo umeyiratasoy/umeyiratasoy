@@ -4,9 +4,7 @@
 
 ### 📩 Connect with me
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]
+
 [<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 
@@ -40,10 +38,8 @@
   ![](https://komarev.com/ghpvc/?username=umeyiratasoy&color=blueviolet) 
 </div>
 
-[instagram]: https://www.instagram.com/umeyiratasoy/
-[facebook]: https://www.facebook.com/umeyiratasoy/
+
 [youtube]: https://youtube.com//channel/UCTyfKbzsyJUVtjM5MnfAEVw/featured?view_as=subscriber
-[linkedin]: http://linkedin.com/in/umeyiratasoy
 [php]: https://www.php.net/
 [gmail]: mailto:umeyiratasoyy@gmail.com
 [html5]: https://www.w3schools.com/html/
