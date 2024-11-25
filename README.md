@@ -1,10 +1,6 @@
 ### Everything I've developed
 
 
-
-### 📩 Connect with me
-
-
 [<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" height="24" width="24" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 
